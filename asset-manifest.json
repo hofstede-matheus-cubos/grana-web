@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/grana/website/static/css/main.cda443e9.chunk.css",
+    "main.js": "/grana/website/static/js/main.97ae9bd1.chunk.js",
+    "main.js.map": "/grana/website/static/js/main.97ae9bd1.chunk.js.map",
+    "runtime-main.js": "/grana/website/static/js/runtime-main.e085cf73.js",
+    "runtime-main.js.map": "/grana/website/static/js/runtime-main.e085cf73.js.map",
+    "static/js/2.4900cb74.chunk.js": "/grana/website/static/js/2.4900cb74.chunk.js",
+    "static/js/2.4900cb74.chunk.js.map": "/grana/website/static/js/2.4900cb74.chunk.js.map",
+    "static/js/3.5cad8a2c.chunk.js": "/grana/website/static/js/3.5cad8a2c.chunk.js",
+    "static/js/3.5cad8a2c.chunk.js.map": "/grana/website/static/js/3.5cad8a2c.chunk.js.map",
+    "index.html": "/grana/website/index.html",
+    "static/css/main.cda443e9.chunk.css.map": "/grana/website/static/css/main.cda443e9.chunk.css.map",
+    "static/js/2.4900cb74.chunk.js.LICENSE.txt": "/grana/website/static/js/2.4900cb74.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/grana/website/static/media/home-sonhador.aa839cff.png",
+    "static/media/home-banner-photo.a47350f2.png": "/grana/website/static/media/home-banner-photo.a47350f2.png",
+    "static/media/sonhador-big.041659ae.png": "/grana/website/static/media/sonhador-big.041659ae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e085cf73.js",
+    "static/js/2.4900cb74.chunk.js",
+    "static/css/main.cda443e9.chunk.css",
+    "static/js/main.97ae9bd1.chunk.js"
+  ]
+}
