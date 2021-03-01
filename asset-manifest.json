@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "grana-web/static/css/main.cc61074d.chunk.css",
-    "main.js": "grana-web/static/js/main.b81f7d70.chunk.js",
-    "main.js.map": "grana-web/static/js/main.b81f7d70.chunk.js.map",
+    "main.js": "grana-web/static/js/main.88bcd4bb.chunk.js",
+    "main.js.map": "grana-web/static/js/main.88bcd4bb.chunk.js.map",
     "runtime-main.js": "grana-web/static/js/runtime-main.6a80a183.js",
     "runtime-main.js.map": "grana-web/static/js/runtime-main.6a80a183.js.map",
-    "static/js/2.81f7804c.chunk.js": "grana-web/static/js/2.81f7804c.chunk.js",
-    "static/js/2.81f7804c.chunk.js.map": "grana-web/static/js/2.81f7804c.chunk.js.map",
+    "static/js/2.3377a173.chunk.js": "grana-web/static/js/2.3377a173.chunk.js",
+    "static/js/2.3377a173.chunk.js.map": "grana-web/static/js/2.3377a173.chunk.js.map",
     "static/js/3.5cad8a2c.chunk.js": "grana-web/static/js/3.5cad8a2c.chunk.js",
     "static/js/3.5cad8a2c.chunk.js.map": "grana-web/static/js/3.5cad8a2c.chunk.js.map",
     "index.html": "grana-web/index.html",
     "static/css/main.cc61074d.chunk.css.map": "grana-web/static/css/main.cc61074d.chunk.css.map",
-    "static/js/2.81f7804c.chunk.js.LICENSE.txt": "grana-web/static/js/2.81f7804c.chunk.js.LICENSE.txt",
+    "static/js/2.3377a173.chunk.js.LICENSE.txt": "grana-web/static/js/2.3377a173.chunk.js.LICENSE.txt",
     "static/media/home.css": "grana-web/static/media/home-sonhador.aa839cff.png",
     "static/media/home-banner-photo.a47350f2.png": "grana-web/static/media/home-banner-photo.a47350f2.png",
     "static/media/sonhador-big.041659ae.png": "grana-web/static/media/sonhador-big.041659ae.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6a80a183.js",
-    "static/js/2.81f7804c.chunk.js",
+    "static/js/2.3377a173.chunk.js",
     "static/css/main.cc61074d.chunk.css",
-    "static/js/main.b81f7d70.chunk.js"
+    "static/js/main.88bcd4bb.chunk.js"
   ]
 }
