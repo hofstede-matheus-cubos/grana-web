@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/grana-web/static/css/main.049d46d0.chunk.css",
-    "main.js": "/grana-web/static/js/main.db5215a6.chunk.js",
-    "main.js.map": "/grana-web/static/js/main.db5215a6.chunk.js.map",
-    "runtime-main.js": "/grana-web/static/js/runtime-main.e2438c65.js",
-    "runtime-main.js.map": "/grana-web/static/js/runtime-main.e2438c65.js.map",
-    "static/js/2.c15260e4.chunk.js": "/grana-web/static/js/2.c15260e4.chunk.js",
-    "static/js/2.c15260e4.chunk.js.map": "/grana-web/static/js/2.c15260e4.chunk.js.map",
-    "static/js/3.5cad8a2c.chunk.js": "/grana-web/static/js/3.5cad8a2c.chunk.js",
-    "static/js/3.5cad8a2c.chunk.js.map": "/grana-web/static/js/3.5cad8a2c.chunk.js.map",
-    "index.html": "/grana-web/index.html",
-    "static/css/main.049d46d0.chunk.css.map": "/grana-web/static/css/main.049d46d0.chunk.css.map",
-    "static/js/2.c15260e4.chunk.js.LICENSE.txt": "/grana-web/static/js/2.c15260e4.chunk.js.LICENSE.txt",
-    "static/media/home.css": "/grana-web/static/media/home-sonhador.aa839cff.png",
-    "static/media/home-banner-photo.a47350f2.png": "/grana-web/static/media/home-banner-photo.a47350f2.png",
-    "static/media/sonhador-big.041659ae.png": "/grana-web/static/media/sonhador-big.041659ae.png"
+    "main.css": "./static/css/main.fd1b654a.chunk.css",
+    "main.js": "./static/js/main.195f4bc2.chunk.js",
+    "main.js.map": "./static/js/main.195f4bc2.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.cfab78ae.js",
+    "runtime-main.js.map": "./static/js/runtime-main.cfab78ae.js.map",
+    "static/js/2.c15260e4.chunk.js": "./static/js/2.c15260e4.chunk.js",
+    "static/js/2.c15260e4.chunk.js.map": "./static/js/2.c15260e4.chunk.js.map",
+    "static/js/3.5cad8a2c.chunk.js": "./static/js/3.5cad8a2c.chunk.js",
+    "static/js/3.5cad8a2c.chunk.js.map": "./static/js/3.5cad8a2c.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.fd1b654a.chunk.css.map": "./static/css/main.fd1b654a.chunk.css.map",
+    "static/js/2.c15260e4.chunk.js.LICENSE.txt": "./static/js/2.c15260e4.chunk.js.LICENSE.txt",
+    "static/media/home.css": "./static/media/home-sonhador.aa839cff.png",
+    "static/media/home-banner-photo.a47350f2.png": "./static/media/home-banner-photo.a47350f2.png",
+    "static/media/sonhador-big.041659ae.png": "./static/media/sonhador-big.041659ae.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2438c65.js",
+    "static/js/runtime-main.cfab78ae.js",
     "static/js/2.c15260e4.chunk.js",
-    "static/css/main.049d46d0.chunk.css",
-    "static/js/main.db5215a6.chunk.js"
+    "static/css/main.fd1b654a.chunk.css",
+    "static/js/main.195f4bc2.chunk.js"
   ]
 }
